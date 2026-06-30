@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Academia"
+    url: /Academia/
+  - title: "SciComm"
+    url: /SciComm/
+  - title: "Austin Blog"
+    url: /Austin Blog/
+  - title: "Art"
+    url: /Art/
