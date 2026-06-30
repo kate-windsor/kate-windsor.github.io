@@ -113,3 +113,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+#Added research projects
+collections:
+  research:
+    output: true
+    permalink: /research/:name/
