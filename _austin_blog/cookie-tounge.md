@@ -16,3 +16,5 @@ Cookie Tongue and Sweet Oddity are a great example of the boundless creativity t
 
 
 Creativity 10/10....................Plot N/A....................Production 11/13....................Vibes: straddling awe and confusion
+
+![Notes from the show](/assets/images/cookienotes.jpg)
