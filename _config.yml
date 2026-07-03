@@ -122,6 +122,6 @@ collections:
 
 #Added austin blog
 collections:
-  _austin_blog:
+  austin_blog:
     output: true
     permalink: /austin_blog/:name/
