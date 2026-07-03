@@ -99,6 +99,7 @@ defaults:
       comments: true
       share: true
       related: true
+
   # _pages
   - scope:
       path: "_pages"
@@ -107,7 +108,8 @@ defaults:
       layout: single
       author_profile: true
 
-    - scope:
+  # _austin_blog
+  - scope:
       path: ""
       type: austin_blog
     values:
