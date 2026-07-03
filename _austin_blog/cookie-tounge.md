@@ -15,6 +15,13 @@ Holding everything together conceptually was a backdrop of layered projection sc
 Cookie Tongue and Sweet Oddity are a great example of the boundless creativity that is allowed to thrive in Austin. I went into the show not knowing what I was getting into, and I left the show without much more understanding. Regardless, it was a fine way to spend a Thursday night, and I’m glad that shows like this exist.  
 
 
-Creativity 10/10....................Plot N/A....................Production 11/13....................Vibes: straddling awe and confusion
+Creativity 10/10
+
+Plot N/A
+
+Production 11/13
+
+Vibes: straddling awe and confusion
+
 
 ![Notes from the show](/assets/images/cookienotes.jpg)
