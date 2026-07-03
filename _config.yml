@@ -107,6 +107,14 @@ defaults:
       layout: single
       author_profile: true
 
+    - scope:
+      path: ""
+      type: austin_blog
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+
 category_archive:
   type: liquid
   path: /categories/
