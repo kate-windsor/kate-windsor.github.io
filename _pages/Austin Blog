@@ -1,0 +1,7 @@
+---
+layout: collection
+title: "Austin Blog"
+permalink: /AustinBlog/
+collection: austin_blog
+entries_layout: list
+---
