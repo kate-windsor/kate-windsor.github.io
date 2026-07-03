@@ -2,6 +2,6 @@
 layout: collection
 title: "Austin Blog"
 permalink: /Austin/
-collection: austin_blog
+collection: _austin_blog
 entries_layout: list
 ---
