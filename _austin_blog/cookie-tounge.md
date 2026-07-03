@@ -21,4 +21,4 @@ Production: 11/13
 Vibes: straddling awe and confusion
 
 Below: notes from the show  
-<img src="/assets/images/cookienotes.jpg" alt="Notes from the show" width="300">
+<img src="/assets/images/cookienotes.jpg" alt="Notes from the show" width="500">
