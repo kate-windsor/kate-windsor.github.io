@@ -119,3 +119,9 @@ collections:
   research:
     output: true
     permalink: /research/:name/
+
+#Added austin blog
+collections:
+  research:
+    output: true
+    permalink: /austin_blog/:name/
