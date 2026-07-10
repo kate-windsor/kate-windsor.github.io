@@ -1,5 +1,5 @@
 ---
-permalink: /Scicomm/
+permalink: /SciComm/
 title: "Science Communication Portfolio"
 
 ---
