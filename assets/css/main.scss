@@ -1,31 +1,84 @@
 ---
 ---
 
+// ===============================
+// Minimal Mistakes Color Palette
+// Every element intentionally different
+// ===============================
+
+$background-color: #E8D5B7;              // tan
+$text-color: #000000;                    // black text
+$muted-text-color: #ff00ff;              // neon pink
+$primary-color: #9F0013;                 // dark red
+$border-color: #ff6600;                  // orange
+
+// Grays
+$light-gray: #ffff00;                    // yellow
+$medium-gray: #9900ff;                   // purple
+$dark-gray: #00ff00;                     // green
+
+// Masthead / Navigation
+$masthead-background-color: #ff0000;     // red
+$masthead-link-color: #ffffff;           // white
+$masthead-link-color-hover: #00ffff;     // cyan
+
+// Footer
+$footer-background-color: #9F0013;       // blue
+$footer-text-color: #ffffff;             // white
+$footer-link-color: #ffff00;             // yellow
+$footer-link-color-hover: #ff00ff;       // pink
+
+// Links
+$link-color: #0000ff;                    // blue
+$link-color-hover: #ff0000;              // red
+
+// Buttons
+$btn-primary-color: #783200;             // brown
+$btn-primary-color-hover: #ff00ff;       // pink
+
+// Code blocks
+$code-background-color: #222222;         // dark gray
+$code-text-color: #00ff00;               // green
+$code-border-color: #ff0000;             // red
+
+// Blockquotes
+$blockquote-border-color: #ff00ff;       // pink
+$blockquote-text-color: #6600ff;         // purple
+
+// Tables
+$table-border-color: #00ffff;            // cyan
+$table-background-color: #ffffcc;        // pale yellow
+$table-row-hover-color: #ff9900;         // orange
+
+// Sidebar / Author profile
+$sidebar-background-color: #00ffff;      // cyan
+$author-profile-color: #ff0000;          // red
+$author-name-color: #0000ff;             // blue
+$author-bio-color: #990099;              // purple
+
+// Search box
+$search-background-color: #ffff00;       // yellow
+$search-border-color: #ff0000;           // red
+$search-text-color: #000000;             // black
+
+// Navigation menu
+$navicon-link-color: #ff6600;            // orange
+$navicon-link-color-hover: #00ff00;      // green
+
+// Pagination
+$pagination-background-color: #ff00ff;   // pink
+$pagination-border-color: #00ffff;       // cyan
+$pagination-link-color: #0000ff;         // blue
+$pagination-link-color-hover: #ff0000;   // red
+
+// Notice boxes
+$notice-background-color: #00ff00;       // green
+$notice-border-color: #ff6600;           // orange
+$notice-text-color: #000000;             // black
+
+// Archive / Blog cards
+$archive-title-color: #ff0000;           // red
+$archive-link-color: #0000ff;            // blue
+$archive-link-color-hover: #00ff00;      // green
+
 @import "minimal-mistakes";
-/* Links */
-a {
-  color: #8b5e3c;
-}
-
-a:hover {
-  color: #b87d4b;
-}
-
-/* Sidebar title */
-.author__name {
-  color: #5a4634;
-}
-
-/* Site title */
-.site-title {
-  color: #5a4634;
-}
-
-/* Buttons */
-.btn {
-  background-color: #c89b6d;
-}
-
-.btn:hover {
-  background-color: #a97b4f;
-}
