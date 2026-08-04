@@ -215,3 +215,15 @@ a,
     width: 100%;
   }
 }
+
+//home page formatting
+.about-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 25px;
+  margin-left: -40px;
+}
+
+.about-image {
+  flex: 0 0 300px;
+}
