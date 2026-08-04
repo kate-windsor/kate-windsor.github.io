@@ -18,9 +18,9 @@ $medium-gray: #7a8288;                   // grey
 $dark-gray: #494e52;                     // iron grey
 
 // Masthead / Navigation
-$masthead-background-color: #9F0013;     // red
-$masthead-link-color: #000000;           // white
-$masthead-link-color-hover: #00ffff;     // cyan
+$masthead-background-color: #9F0013;     // dark red
+$masthead-link-color: #000000;           // black
+$masthead-link-color-hover: #000000;     // black
 
 // Footer
 $footer-background-color: #9F0013;       // blue
@@ -83,8 +83,6 @@ $archive-link-color-hover: #00ff00;      // green
 
 @import "minimal-mistakes";
 
-// Global hover animations
-
 /* ---------- Global transitions ---------- */
 
 a,
@@ -94,8 +92,7 @@ a,
 .archive__item-title a,
 .pagination a,
 .btn {
-  transition: color 0.2s ease,
-              background-color 0.2s ease,
+  transition: background-color 0.2s ease,
               box-shadow 0.2s ease,
               transform 0.15s ease;
 }
@@ -103,13 +100,14 @@ a,
 /* ---------- Text links ---------- */
 
 .page__content a {
-  text-decoration: underline;
-  text-decoration-color: transparent;
-  text-underline-offset: 0.18em;
+  padding: 0.05em 0.2em;
+  border-radius: 4px;
+  text-decoration: none;
 }
 
 .page__content a:hover {
-  text-decoration-color: currentColor;
+  background-color: #9F0013; 
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
 }
 
 /* ---------- Navigation ---------- */
@@ -120,7 +118,8 @@ a,
 }
 
 .masthead__menu-item a:hover {
-  background-color: rgba(255,255,255,0.18);
+  background-color: rgba(255,255,255,0.25);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
 }
 
 /* ---------- Sidebar ---------- */
@@ -131,10 +130,11 @@ a,
 }
 
 .author__urls a:hover {
-  background-color: rgba(0,0,0,0.06);
+  background-color: rgba(255,255,255,0.25);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
 }
 
-/* ---------- Archive / Blog cards ---------- */
+/* ---------- Archive cards ---------- */
 
 .archive__item {
   transition: transform 0.2s ease,
@@ -143,29 +143,12 @@ a,
 
 .archive__item:hover {
   transform: translateY(-3px);
-  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
 }
 
 /* ---------- Buttons ---------- */
 
-.btn {
-  transition: transform 0.15s ease,
-              box-shadow 0.2s ease;
-}
-
 .btn:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.18);
-}
-
-/* ---------- Images ---------- */
-
-.page__content img {
-  transition: transform 0.2s ease,
-              box-shadow 0.2s ease;
-}
-
-.page__content img:hover {
-  transform: scale(1.01);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
