@@ -173,21 +173,12 @@ a,
   left: 0;
   width: 0;
   height: 2px;
-  background-color: currentColor;
+  background-color: #9F0013;  //dark red
   transition: width 0.2s ease-in-out;
 }
 
 .site-title:hover::before {
   width: 100%;
-}
-
-/* Remove underline from page/post titles */
-.page__title a {
-  text-decoration: none;
-}
-
-.page__title a:hover {
-  text-decoration: none;
 }
 
 //home page formatting
