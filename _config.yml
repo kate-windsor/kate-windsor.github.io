@@ -132,3 +132,10 @@ collections:
   austin_blog:
     output: true
     permalink: /austin_blog/:name/
+
+#Google analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-9W3ZTT3ZK3"
+    anonymize_ip: false
