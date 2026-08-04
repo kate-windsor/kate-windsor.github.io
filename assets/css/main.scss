@@ -83,58 +83,63 @@ $archive-link-color-hover: #00ff00;      // green
 
 @import "minimal-mistakes";
 
-/* ---------- Global transitions ---------- */
+/* ===============================
+   Consistent hover effects
+   =============================== */
 
+/* Smooth transitions */
 a,
-.site-title,
-.masthead__menu-item a,
+.greedy-nav a,
 .author__urls a,
 .archive__item-title a,
-.pagination a,
 .btn {
   transition: background-color 0.2s ease,
               box-shadow 0.2s ease,
               transform 0.15s ease;
 }
 
-/* ---------- Text links ---------- */
+
+/* ===============================
+   Links inside page content
+   =============================== */
 
 .page__content a {
-  padding: 0.05em 0.2em;
-  border-radius: 4px;
   text-decoration: none;
+  border-radius: 4px;
+  padding: 0.05em 0.2em;
 }
 
 .page__content a:hover {
-  background-color: #9F0013; 
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
-}
-
-/* ---------- Navigation ---------- */
-
-.masthead__menu-item a {
-  padding: 0.35em 0.7em;
-  border-radius: 6px;
-}
-
-.masthead__menu-item a:hover {
-  background-color: rgba(255,255,255,0.25);
+  background-color: rgba(159, 0, 19, 0.15);
   box-shadow: 0 2px 8px rgba(0,0,0,0.12);
 }
 
-/* ---------- Sidebar ---------- */
 
-.author__urls a {
-  padding: 0.25em 0.5em;
+/* ===============================
+   Top navigation
+   =============================== */
+
+.greedy-nav a:hover {
+  background-color: rgba(255,255,255,0.25);
   border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
 }
+
+
+/* ===============================
+   Sidebar links
+   =============================== */
 
 .author__urls a:hover {
-  background-color: rgba(255,255,255,0.25);
+  background-color: rgba(159,0,19,0.15);
+  border-radius: 6px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.12);
 }
 
-/* ---------- Archive cards ---------- */
+
+/* ===============================
+   Blog/archive cards
+   =============================== */
 
 .archive__item {
   transition: transform 0.2s ease,
@@ -146,7 +151,10 @@ a,
   box-shadow: 0 6px 18px rgba(0,0,0,0.15);
 }
 
-/* ---------- Buttons ---------- */
+
+/* ===============================
+   Buttons
+   =============================== */
 
 .btn:hover {
   transform: translateY(-2px);
