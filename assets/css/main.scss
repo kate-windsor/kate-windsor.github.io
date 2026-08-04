@@ -6,20 +6,20 @@
 // Every element intentionally different
 // ===============================
 
-$background-color: #E8D5B7;              // tan
+$background-color: #E8D5B7;              // pale oak
 $text-color: #000000;                    // black text
-$muted-text-color: #ff00ff;              // neon pink
+$muted-text-color: #737373;              // dim gray
 $primary-color: #9F0013;                 // dark red
-$border-color: #ff6600;                  // orange
+$border-color: #161B33;                  // prussian blue
 
 // Grays
-$light-gray: #ffff00;                    // yellow
-$medium-gray: #9900ff;                   // purple
-$dark-gray: #00ff00;                     // green
+$light-gray: #f2f3f3;                    // platinum
+$medium-gray: #7a8288;                   // grey
+$dark-gray: #494e52;                     // iron grey
 
 // Masthead / Navigation
-$masthead-background-color: #ff0000;     // red
-$masthead-link-color: #ffffff;           // white
+$masthead-background-color: #9F0013;     // red
+$masthead-link-color: #000000;           // white
 $masthead-link-color-hover: #00ffff;     // cyan
 
 // Footer
@@ -82,3 +82,90 @@ $archive-link-color: #0000ff;            // blue
 $archive-link-color-hover: #00ff00;      // green
 
 @import "minimal-mistakes";
+
+// Global hover animations
+
+/* ---------- Global transitions ---------- */
+
+a,
+.site-title,
+.masthead__menu-item a,
+.author__urls a,
+.archive__item-title a,
+.pagination a,
+.btn {
+  transition: color 0.2s ease,
+              background-color 0.2s ease,
+              box-shadow 0.2s ease,
+              transform 0.15s ease;
+}
+
+/* ---------- Text links ---------- */
+
+.page__content a {
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-underline-offset: 0.18em;
+}
+
+.page__content a:hover {
+  text-decoration-color: currentColor;
+}
+
+/* ---------- Navigation ---------- */
+
+.masthead__menu-item a {
+  padding: 0.35em 0.7em;
+  border-radius: 6px;
+}
+
+.masthead__menu-item a:hover {
+  background-color: rgba(255,255,255,0.18);
+}
+
+/* ---------- Sidebar ---------- */
+
+.author__urls a {
+  padding: 0.25em 0.5em;
+  border-radius: 6px;
+}
+
+.author__urls a:hover {
+  background-color: rgba(0,0,0,0.06);
+}
+
+/* ---------- Archive / Blog cards ---------- */
+
+.archive__item {
+  transition: transform 0.2s ease,
+              box-shadow 0.2s ease;
+}
+
+.archive__item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+
+/* ---------- Buttons ---------- */
+
+.btn {
+  transition: transform 0.15s ease,
+              box-shadow 0.2s ease;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.18);
+}
+
+/* ---------- Images ---------- */
+
+.page__content img {
+  transition: transform 0.2s ease,
+              box-shadow 0.2s ease;
+}
+
+.page__content img:hover {
+  transform: scale(1.01);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
