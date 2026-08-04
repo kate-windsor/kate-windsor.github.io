@@ -29,8 +29,8 @@ $footer-link-color: #ffff00;             // yellow
 $footer-link-color-hover: #ff00ff;       // pink
 
 // Links
-$link-color: #0000ff;                    // blue
-$link-color-hover: #ff0000;              // red
+$link-color: #000000;                    // black
+$link-color-hover: #000000;              // black
 
 // Buttons
 $btn-primary-color: #783200;             // brown
@@ -159,4 +159,24 @@ a,
 .btn:hover {
   transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+/* Add navigation underline animation to Home/site title */
+.site-title {
+  position: relative;
+}
+
+.site-title::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: currentColor;
+  transition: width 0.2s ease-in-out;
+}
+
+.site-title:hover::before {
+  width: 100%;
 }
