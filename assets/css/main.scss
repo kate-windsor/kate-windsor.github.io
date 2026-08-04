@@ -180,3 +180,12 @@ a,
 .site-title:hover::before {
   width: 100%;
 }
+
+/* Remove underline from page/post titles */
+.page__title a {
+  text-decoration: none;
+}
+
+.page__title a:hover {
+  text-decoration: none;
+}
