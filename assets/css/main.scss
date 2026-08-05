@@ -244,3 +244,12 @@ a,
     flex-direction: column;
   }
 }
+
+/* Align site title with page content */
+.masthead__inner-wrap {
+  padding-left: 0;
+}
+
+.site-title {
+  margin-left: 0;
+}
