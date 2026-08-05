@@ -1,1 +1,16 @@
+---
+layout: archive
+---
 
+{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
+
+{% if page.author_profile %}
+  {% include author-profile.html %}
+{% endif %}
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html locale=locale collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+</div>
