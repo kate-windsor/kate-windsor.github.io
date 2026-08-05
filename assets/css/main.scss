@@ -151,6 +151,12 @@ a,
   box-shadow: 0 6px 18px rgba(0,0,0,0.15);
 }
 
+.archive__item-title a:hover {
+  background-color: rgba(255,255,255,0.25);
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
 
 /* ===============================
    Buttons
@@ -177,10 +183,6 @@ a,
   transition: width 0.2s ease-in-out;
 }
 
-.site-title:hover::before {
-  width: 100%;
-}
-
 //home page formatting
 .about-container {
   display: flex;
@@ -205,10 +207,6 @@ a,
   margin-top: 0;
 }
 
-@media (max-width: 768px) {
-  .about-container {
-    flex-direction: column;
-  }
 
   .about-image {
     flex-basis: auto;
@@ -221,7 +219,7 @@ a,
   display: flex;
   align-items: flex-start;
   gap: 30px;
-  margin-left: -500px;
+  margin-left: -400px;
 }
 
 .about-image {
