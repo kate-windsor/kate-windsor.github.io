@@ -4,9 +4,7 @@ layout: archive
 
 {%- assign locale = page.locale | default: layout.locale | default: site.locale %}
 
-{% if page.author_profile %}
-  {% include author-profile.html %}
-{% endif %}
+<!-- Inline author profile removed so only the sidebar profile is shown -->
 
 {{ content }}
 
