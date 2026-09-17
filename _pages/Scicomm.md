@@ -1,7 +1,7 @@
 ---
 permalink: /SciComm/
 title: "Science Communication Portfolio"
-
+classes: wide
 ---
 [She Blinded Me with Science! (Podcast)](https://shows.acast.com/sciencekvrx)
 
