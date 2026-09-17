@@ -253,8 +253,7 @@ a,
 
 /*justified paragraphs*/
 
-.page__content p,
-.entry-content p,
-.archive__item-excerpt p {
-  text-align: justify;
+body .page__content p,
+body .entry-content p {
+  text-align: justify !important;
 }
