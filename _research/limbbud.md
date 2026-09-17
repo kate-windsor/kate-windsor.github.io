@@ -3,11 +3,16 @@ title: "Embryonic Limbbud Initiation"
 layout: single
 classes: wide
 ---
+### Defining mechanisms regulating Hedgehog signaling during development
 
-In 2020, I joined Dr. Steven Vokes’ lab as manager and research assistant. I supported and contributed to multiple projects and became proficient in new lab techniques and methods, including mouse skeletal preparation, in situ hybridization, western blots, RNA isolation and qRT-PCR. 
-I characterized how GLI3, a transcriptional effector of the Hedgehog signal transduction pathway, is localized to cilia when acting as a repressor during embryonic limb development. For this project I analyzed the presence of GLI3 within cilia at different timepoints. I found that there was an increased presence of GLI3 in the ciliary axoneme directly preceding the establishment of GLI3 repression, but after the onset of Hedgehog signaling in the developing limb bud. These findings were published in 2022.
-I investigated the regulatory role of the BAF chromatin remodeling complex in GLI3-mediated repression of Hedgehog signaling during limb development. I generated single or double mutant mouse strains to produce embryos that lacked either Sonic Hedgehog, and/or Smarcc1, a scaffolding protein for the BAF chromatin remodeling complex. I performed RNA in situ hybridization targeting Sox9, a collagen marker which indicates digit patterning, and found that the double knockout did not rescue the Shh mutant phenotype, suggesting that BAF is not essential for GLI3 repression of Hedgehog signaling. These findings were published in 2023. 
-Finally, I contributed to characterizing the molecular changes which directly precede limb bud formation. I developed a method to micro dissect and isolate the somatic lateral plate mesoderm of mouse embryos at embryonic day 8-10. I completed multiplexed immunofluorescence and in situ hybridization experiments to detect Tbx5 and Twist expression in conjunction with changes in cell polarity markers N-Cadherin and β-catenin. As part of this project, I collaborated with the Cenik lab to use ribosome profiling by isotachophoresis to examine translational regulation of cell polarity markers. This work was published in 2026.
+The Hedgehog signaling pathway is a critical regulator of embryonic development and its disruption can result in severe developmental abnormalities. While the transcription factor GLI3 is known to mediate Hedgehog-dependent gene regulation, the mechanisms controlling GLI3 activity and repression during limb development remained incompletely understood.
+
+As a research assistant and lab manager in Dr. Steven Vokes’ laboratory, I contributed to defining mechanisms regulating GLI3 function during embryonic limb development. I characterized the GLI3 localization within primary cilia, a key signaling organelle, and found that GLI3 accumulation within the ciliary axoneme increased immediately preceding establishment of GLI3-mediated repression following Hedgehog pathway activation. This work provided insight into the temporal regulation of GLI3 activity (Lex et al., 2022).
+
+I further investigated the role of the BAF chromatin remodeling complex in GLI3-mediated Hedgehog repression. Using single and double mutant mouse models lacking Sonic Hedgehog and/or Smarcc1, a BAF complex scaffolding component, I determined that loss of BAF activity did not rescue Shh mutant limb patterning defects, demonstrating that BAF is not required for GLI3-mediated repression during limb development. These findings clarified the mechanisms underlying Hedgehog-dependent transcriptional control (Ramachandran et al., 2023).
+
+Finally, I contributed to identifying molecular changes preceding limb bud formation by developing methods to isolate somatic lateral plate mesoderm from mouse embryos during early development. Through multiplexed immunofluorescence, in situ hybridization, and ribosome profiling, I characterized changes in gene expression and translational regulation associated with cell polarity and limb initiation. This work expanded understanding of molecular events governing limb development (Ghatpande et al., 2026).
+
 
 Relevant Publication(s)
 
