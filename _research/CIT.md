@@ -2,6 +2,7 @@
 title: "Constraint-Induced Aphasia Therapy"
 layout: single
 classes: wide
+order: 3
 ---
 
 ### Translating neuroscience research into patient-centered stroke rehabilitation
