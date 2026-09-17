@@ -2,6 +2,7 @@
 title: "Cocaine-induced Synaptic Structual Changes"
 layout: single
 classes: wide
+order: 4
 ---
 
 ### Characterizing synaptic mechanisms underlying cocaine-induced dopaminergic sensitization
