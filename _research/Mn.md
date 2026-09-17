@@ -2,6 +2,7 @@
 title: "Mn-induced Neurotoxicity"
 layout: single
 classes: wide
+order: 1
 ---
 
 ### Defining the role of neuronal HIF signaling in manganese-induced neurotoxicity
