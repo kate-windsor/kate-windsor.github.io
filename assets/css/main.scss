@@ -250,3 +250,11 @@ a,
 .site-title {
   margin-left: 0;
 }
+
+/*justified paragraphs*/
+
+.page__content p,
+.entry-content p,
+.archive__item-excerpt p {
+  text-align: justify;
+}
