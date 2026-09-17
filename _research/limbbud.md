@@ -1,6 +1,7 @@
 ---
 title: "Embryonic Limbbud Initiation"
 layout: single
+classes: wide
 ---
 
 In 2020, I joined Dr. Steven Vokes’ lab as manager and research assistant. I supported and contributed to multiple projects and became proficient in new lab techniques and methods, including mouse skeletal preparation, in situ hybridization, western blots, RNA isolation and qRT-PCR. 
