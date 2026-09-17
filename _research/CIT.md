@@ -1,6 +1,7 @@
 ---
 title: "Constraint-Induced Aphasia Therapy"
 layout: single
+classes: wide
 ---
 
 After graduating from Trinity University in 2019, I joined Austin Speech labs, an outpatient therapy center for stroke survivors, as a research assistant. I designed and implemented a constraint-induced therapy trial to increase speech recovery in stroke survivors with Broca’s aphasia, I administered bilingual speech therapy, and I measured the effect of therapy language on anomia rehabilitation. I also recorded speech ability assessment scores and created visual representations of clients’ progress to share with their families.
