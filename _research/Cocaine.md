@@ -4,7 +4,14 @@ layout: single
 classes: wide
 ---
 
-In 2017, I joined Dr. Gerard Beaudoin’s lab on mechanisms of addiction. I studied the question of how cocaine causes dopaminergic neurons to become more sensitive to glutamate and thereby causes increased release of dopamine. Based on previous research which found that cocaine selectively acts on NMDA receptors at synapses between the pedunculopontine tegmental nucleus (PPN) and the substantia nigra pars compacta (SNc), I measured changes in structure and composition of glutamatergic PPN-SNc synapses on dopaminergic neurons. I used mice stereotactically and bilaterally injected with adeno-associated virus (AAV) that encoded yellow fluorescing protein (YFP) and channelrhodopsin-2 at the PPN in order to identify projections to the SNc. Mice were then injected with either saline or cocaine and I then perfused and processed the brain tissue for immunohistochemical experiments. I found that cocaine did not change the number or density of glutamate receptors present in the synapse, but I did find a glutamate receptor subunit change in mice that had been treated with cocaine. The custom automated macro that I developed in ImageJ and used to analyze confocal images was later published.
+### Characterizing synaptic mechanisms underlying cocaine-induced dopaminergic sensitization
+
+Cocaine addiction is driven in part by long-lasting changes in dopamine signaling and synaptic plasticity within neural circuits involved in reward and reinforcement. Previous studies demonstrated that cocaine selectively alters NMDA receptor signaling at glutamatergic synapses between the pedunculopontine tegmental nucleus (PPN) and substantia nigra pars compacta (SNc) dopaminergic neurons, but the structural and molecular changes underlying this adaptation remained unclear.
+
+As an undergraduate researcher in Dr. Gerard Beaudoin’s laboratory, I investigated how cocaine exposure alters glutamatergic PPN-SNc synapses onto dopaminergic neurons. Using a mouse model with stereotactic delivery of adeno-associated viral vectors to label PPN projections, I characterized synaptic structure and glutamate receptor composition following cocaine exposure through immunohistochemical analysis and confocal imaging. I found that cocaine did not alter the overall number or density of glutamate receptors at these synapses but instead induced changes in glutamate receptor subunit composition, identifying a potential mechanism by which cocaine modifies dopaminergic neuron sensitivity to glutamatergic signaling.
+
+To support quantitative analysis of synaptic remodeling, I developed an automated ImageJ macro for analysis of confocal microscopy images. This tool was subsequently published and enabled more efficient and reproducible analysis of synaptic structures. This work contributed to understanding the molecular adaptations underlying cocaine-induced changes in dopamine circuitry and strengthened my expertise in neurobiology, animal models, and quantitative image analysis.
+
 
 
 Relevant Publication(s)
