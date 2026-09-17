@@ -4,7 +4,7 @@ layout: single
 classes: wide
 ---
 
-# Translating neuroscience research into patient-centered stroke rehabilitation
+### Translating neuroscience research into patient-centered stroke rehabilitation
 
 Stroke recovery depends on understanding how injury to specific brain regions affects neural circuits underlying language and how targeted interventions can support functional recovery. However, effective rehabilitation also requires translating complex neuroscience concepts into accessible information that allows patients and families to understand their condition and participate in care.
 
