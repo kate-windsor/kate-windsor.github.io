@@ -196,7 +196,7 @@ a,
 
 .about-image {
   flex: 0 0 350px;
-  margin-top: 0;
+  margin-top: 3rem;   // move image down
 }
 
 .about-image img {
@@ -222,7 +222,7 @@ a,
   display: flex;
   align-items: flex-start;
   gap: 30px;
-  margin-left: 0px;
+  margin-left: -350px;
 }
 
 .about-image {
