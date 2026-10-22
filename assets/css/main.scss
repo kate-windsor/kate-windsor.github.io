@@ -186,30 +186,34 @@ a,
 .about-container {
   display: flex;
   align-items: flex-start;
-  gap: 40px;
-}
-
-.about-image {
-  flex: 0 0 350px;
-}
-
-.about-image img {
-  width: 100%;
-  height: auto;
+  gap: 30px;
+  margin-left: 0;
 }
 
 .about-text {
   flex: 1;
 }
 
-.about-text h1 {
+.about-image {
+  flex: 0 0 350px;
   margin-top: 0;
 }
 
+.about-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 @media (max-width: 768px) {
+  .about-container {
+    flex-direction: column;
+    margin-left: 0;
+  }
+
   .about-image {
-    flex-basis: auto;
     width: 100%;
+    flex-basis: auto;
   }
 }
 
