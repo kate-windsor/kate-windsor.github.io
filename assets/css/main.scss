@@ -295,3 +295,23 @@ body .page__content p,
 body .entry-content p {
   text-align: justify !important;
 }
+
+// for real stop hover effects on side bar
+.author__avatar,
+.author__avatar a,
+.author__avatar img,
+.author__name,
+.author__name a,
+.author__urls a,
+.author__urls a:hover,
+.author__urls a:visited,
+.author__avatar a:hover,
+.author__name a:hover {
+  cursor: default !important;
+  pointer-events: none !important;
+  text-decoration: none !important;
+  color: inherit !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  transform: none !important;
+}
