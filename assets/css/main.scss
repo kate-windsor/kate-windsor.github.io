@@ -282,4 +282,23 @@ body .entry-content p {
   text-align: justify !important;
 }
 
-
+// please stop the author hover
+.author__avatar,
+.author__avatar a,
+.author__avatar a:hover,
+.author__avatar a:visited,
+.author__name,
+.author__name a,
+.author__name a:hover,
+.author__name a:visited,
+.author__urls a,
+.author__urls a:hover,
+.author__urls a:visited {
+  cursor: default !important;
+  pointer-events: none !important;
+  text-decoration: none !important;
+  color: inherit !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  transform: none !important;
+}
