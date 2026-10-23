@@ -93,6 +93,10 @@ $archive-link-color-hover: #00ff00;      // green
 .page__footer a:hover {
   color: #ffffff !important;
 }
+// center footer text
+.site-footer {
+  text-align: center;
+}
 
 /* ===============================
    Consistent hover effects
