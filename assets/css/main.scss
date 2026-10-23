@@ -114,7 +114,21 @@ a,
               transform 0.15s ease;
 }
 
-
+//but not the side bar
+.author__avatar a,
+.author__avatar a:hover,
+.author__name a,
+.author__name a:hover,
+.author__avatar a:visited,
+.author__name a:visited {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+  color: inherit;
+  background: transparent !important;
+  box-shadow: none !important;
+  transform: none !important;
+}
 /* ===============================
    Links inside page content
    =============================== */
