@@ -4,7 +4,7 @@ title: "CV"
 layout: single
 author_profile: true
 author:
-  name: "Kate Windsor"
+  
   avatar: "/assets/images/Shhhh.jpg"
   bio: "Short bio for this page"
 ---
