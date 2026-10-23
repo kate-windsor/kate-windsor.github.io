@@ -82,6 +82,18 @@ $archive-link-color-hover: #00ff00;      // green
 
 @import "minimal-mistakes";
 
+// overide footer text color
+.site-footer,
+.site-footer a,
+.site-footer a:visited,
+.site-footer a:hover,
+.page__footer,
+.page__footer a,
+.page__footer a:visited,
+.page__footer a:hover {
+  color: #ffffff !important;
+}
+
 /* ===============================
    Consistent hover effects
    =============================== */
@@ -254,6 +266,7 @@ a,
 .site-title {
   margin-left: 0;
 }
+
 
 /*justified paragraphs*/
 
