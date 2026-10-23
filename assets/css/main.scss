@@ -49,11 +49,13 @@ $table-border-color: #00ffff;            // cyan
 $table-background-color: #ffffcc;        // pale yellow
 $table-row-hover-color: #ff9900;         // orange
 
-// Sidebar / Author profile
+/* // Sidebar / Author profile
 $sidebar-background-color: #00ffff;      // cyan
 $author-profile-color: #ff0000;          // red
 $author-name-color: #0000ff;             // blue
 $author-bio-color: #990099;              // purple
+
+*/
 
 // Search box
 $search-background-color: #ffff00;       // yellow
@@ -106,7 +108,7 @@ $archive-link-color-hover: #00ff00;      // green
 /* Smooth transitions */
 a,
 .greedy-nav a,
-.author__urls a,
+/* .author__urls a, */
 .archive__item-title a,
 .btn {
   transition: background-color 0.2s ease,
