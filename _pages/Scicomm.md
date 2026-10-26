@@ -2,6 +2,12 @@
 permalink: /SciComm/
 title: "Science Communication Portfolio"
 classes: wide
+classes: cv-page
+author_profile: true
+author:
+  
+  avatar: "assets/images/SUTS brains.jpg"
+  bio: "I could write for you! See some of my recent work here and if you like it shoot me an email at Kate.Emily.Windsor@gmail.com"
 ---
 [She Blinded Me with Science! (Podcast)](https://shows.acast.com/sciencekvrx)
 
