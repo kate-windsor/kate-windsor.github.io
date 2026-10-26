@@ -405,3 +405,15 @@ body .entry-content p {
   }
 }
 
+
+/* Hide the custom dropdown on desktop */
+.greedy-nav .mobile-nav {
+  display: none !important;
+}
+
+@media (max-width: 767px) {
+  /* Show the custom dropdown only on mobile */
+  .greedy-nav .mobile-nav {
+    display: block !important;
+  }
+}
