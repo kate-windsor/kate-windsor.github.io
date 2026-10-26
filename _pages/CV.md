@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 author:
   
-  avatar: "/assets/images/Shhhh.jpg"
+  avatar: "assets/images/SOT pose.jpg"
   bio: "Short bio for this page"
 ---
 <iframe
