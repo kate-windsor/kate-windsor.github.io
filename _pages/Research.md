@@ -6,6 +6,7 @@ collection: research
 entries_layout: list
 sort_by: order
 sort_order: ascending
+classes: cv-page 
 author_profile: true
 author:
   
