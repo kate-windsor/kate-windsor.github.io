@@ -284,26 +284,9 @@ body .entry-content p {
 
 // please stop the author hover
 
-.author__content,
-.author__content a,
-.author__content a:hover,
-.author__content a:visited,
-.author__content .author__avatar,
-.author__content .author__avatar a,
-.author__content .author__avatar a:hover,
-.author__content .author__avatar a:visited,
-.author__content .author__name,
-.author__content .author__name a,
-.author__content .author__name a:hover,
-.author__content .author__name a:visited,
-.author__content .author__urls a,
-.author__content .author__urls a:hover,
-.author__content .author__urls a:visited {
-  cursor: default !important;
-  pointer-events: none !important;
-  text-decoration: none !important;
-  color: inherit !important;
-  background: transparent !important;
-  box-shadow: none !important;
-  transform: none !important;
+/* Keep the author sidebar fully visible */
+.sidebar,
+.sidebar:hover {
+  opacity: 1;
+  transition: none;
 }
