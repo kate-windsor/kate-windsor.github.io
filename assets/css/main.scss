@@ -303,11 +303,6 @@ body .entry-content p {
 }
 
 
-/* Hide the mobile author-profile Follow button */
-.author__urls-wrapper button {
-  display: none !important;
-}
-
 /* Enlarge the author profile image on mobile */
 @media (max-width: 767px) {
   .author__avatar {
@@ -321,3 +316,11 @@ body .entry-content p {
     max-width: 100%;
   }
 }
+
+
+/* Hide the Follow button at all screen sizes */
+.author__urls-wrapper > button,
+.author__urls-wrapper button.btn {
+  display: none !important;
+}
+
