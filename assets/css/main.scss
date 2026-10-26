@@ -324,3 +324,84 @@ body .entry-content p {
   display: none !important;
 }
 
+/* Dedicated mobile navigation dropdown */
+.mobile-nav {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  .greedy-nav .visible-links,
+  .greedy-nav > .greedy-nav__toggle,
+  .greedy-nav > .hidden-links {
+    display: none !important;
+  }
+
+  .greedy-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .mobile-nav {
+    display: block;
+    position: relative;
+    margin-left: auto;
+  }
+
+  .mobile-nav summary {
+    list-style: none;
+    cursor: pointer;
+    padding: 10px;
+  }
+
+  .mobile-nav summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .mobile-nav summary .navicon {
+    display: block;
+    width: 25px;
+    height: 2px;
+    background: currentColor;
+    position: relative;
+  }
+
+  .mobile-nav summary .navicon::before,
+  .mobile-nav summary .navicon::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 25px;
+    height: 2px;
+    background: currentColor;
+  }
+
+  .mobile-nav summary .navicon::before {
+    top: -7px;
+  }
+
+  .mobile-nav summary .navicon::after {
+    top: 7px;
+  }
+
+  .mobile-nav ul {
+    position: absolute;
+    right: 0;
+    top: 100%;
+    z-index: 100;
+    min-width: 180px;
+    margin: 0;
+    padding: 0.5em 0;
+    list-style: none;
+    background: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+  }
+
+  .mobile-nav li a {
+    display: block;
+    padding: 10px 16px;
+    white-space: nowrap;
+  }
+}
+
