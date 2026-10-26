@@ -2,6 +2,7 @@
 permalink: /CV/
 title: "CV"
 layout: single
+classes: cv-page
 author_profile: true
 author:
   
