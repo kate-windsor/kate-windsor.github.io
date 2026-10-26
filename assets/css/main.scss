@@ -294,3 +294,11 @@ body .entry-content p {
   font-family: inherit;
   font-weight: bold;
 }
+
+
+/* Make the sidebar profile image larger on the CV page */
+.cv-page .author__avatar img {
+  max-width: 220px;
+  width: 100%;
+}
+
