@@ -324,3 +324,14 @@ body .entry-content p {
   display: none !important;
 }
 
+
+/* Put all navigation links in the dropdown on mobile */
+@media (max-width: 767px) {
+  .greedy-nav .visible-links {
+    display: none !important;
+  }
+
+  .greedy-nav .hidden-links {
+    display: block !important;
+  }
+}
