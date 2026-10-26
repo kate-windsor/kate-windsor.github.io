@@ -4,7 +4,7 @@ title: "Austin Blog"
 permalink: /Austin/
 collection: austin_blog
 entries_layout: list
-classes: cv-page
+classes: 
 author_profile: true
 author:
   
