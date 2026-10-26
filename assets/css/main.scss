@@ -282,11 +282,15 @@ body .entry-content p {
   text-align: justify !important;
 }
 
-// please stop the author hover
-
 /* Keep the author sidebar fully visible */
 .sidebar,
 .sidebar:hover {
   opacity: 1;
   transition: none;
+}
+
+/* Match navigation font and weight to the site title */
+.greedy-nav .visible-links a {
+  font-family: inherit;
+  font-weight: bold;
 }
