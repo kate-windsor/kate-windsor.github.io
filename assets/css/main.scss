@@ -302,3 +302,22 @@ body .entry-content p {
   width: 100%;
 }
 
+
+/* Hide the mobile author-profile Follow button */
+.author__urls-wrapper button {
+  display: none !important;
+}
+
+/* Enlarge the author profile image on mobile */
+@media (max-width: 767px) {
+  .author__avatar {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  .author__avatar img {
+    width: 160px;
+    max-width: 100%;
+  }
+}
