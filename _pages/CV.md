@@ -6,7 +6,7 @@ classes: cv-page
 author_profile: true
 author:
   
-  avatar: "assets/images/SOT pose.jpg"
+  avatar: "assets/images/SOT pose crop.jpg"
   bio: "This CV is up to date as of October 2026."
 ---
 <iframe
