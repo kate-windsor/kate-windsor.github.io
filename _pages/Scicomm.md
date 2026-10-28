@@ -17,7 +17,7 @@ author:
   
   <a class="scicom-card" href="https://shows.acast.com/sciencekvrx" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/scicomm/podsci.jpeg" alt="She Blinded Me with Science podcast">
-    <p>&nbsp;KVRX Podcast</p>
+    <p>&nbsp;&nbsp;&nbsp;KVRX Podcast</p>
   </a>
 
   <a class="scicom-card" href="https://www.sdbonline.org/page.cfm?name=resource&ResourceID=4627" target="_blank" rel="noopener noreferrer">
