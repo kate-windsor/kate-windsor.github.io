@@ -2,6 +2,7 @@
 title: "Constraint-Induced Aphasia Therapy"
 layout: single
 classes: wide
+classes: cv-page
 order: 3
 
 author_profile: true
