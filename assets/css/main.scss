@@ -417,3 +417,17 @@ body .entry-content p {
     display: block !important;
   }
 }
+
+
+/* Center science communication portfolio cards */
+.scicom-card {
+  text-align: center;
+}
+
+.page__content .scicom-card h3 {
+  text-align: center;
+}
+
+.page__content .scicom-card p {
+  text-align: center !important;
+}
