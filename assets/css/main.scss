@@ -417,3 +417,61 @@ body .entry-content p {
     display: block !important;
   }
 }
+
+
+/* Science communication portfolio grid */
+.scicom-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.scicom-card {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  min-width: 0;
+}
+
+.scicom-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 4px;
+  transition: opacity 0.2s ease;
+}
+
+.scicom-card:hover img {
+  opacity: 0.8;
+}
+
+.scicom-card h3 {
+  font-size: 1rem;
+  line-height: 1.4;
+  margin: 0.65rem 0 0.3rem;
+}
+
+.scicom-card p {
+  font-size: 0.85rem;
+  margin: 0;
+  opacity: 0.8;
+}
+
+.scicom-card:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+
+@media (max-width: 900px) {
+  .scicom-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .scicom-grid {
+    grid-template-columns: 1fr;
+  }
+}
