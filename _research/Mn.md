@@ -3,6 +3,12 @@ title: "Mn-induced Neurotoxicity"
 layout: single
 classes: wide
 order: 1
+
+author_profile: true
+author:
+  
+  avatar: "assets/images/research/mena1967.png"
+  bio: "From the 1967 paper "Chronic Manganese Poisoning", published in the journal Neurology (1967). Pictured: Venezuelan manganese miner with parkinsonian motor syndrome."
 ---
 
 ### Defining the role of neuronal HIF signaling in manganese-induced neurotoxicity
