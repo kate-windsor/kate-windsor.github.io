@@ -1,4 +1,3 @@
-
 ---
 permalink: /SciComm/
 title: "Science Communication Portfolio"
