@@ -3,6 +3,12 @@ title: "Constraint-Induced Aphasia Therapy"
 layout: single
 classes: wide
 order: 3
+
+author_profile: true
+author:
+  
+  avatar: "assets/images/research/auspeechlab.webp"
+  bio: "Austin Speech Labs works with stroke survivors for rehabiliation."
 ---
 
 ### Translating neuroscience research into patient-centered stroke rehabilitation
