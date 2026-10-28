@@ -12,7 +12,7 @@ author:
 
   <a class="scicom-card" href="https://shows.acast.com/sciencekvrx" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/scicomm/podsci.jpeg" alt="She Blinded Me with Science podcast">
-    <h3>She Blinded Me with Science!</h3>
+  <!-- <h3>She Blinded Me with Science!</h3> -->
     <p>KVRX Podcast</p>
   </a>
 
