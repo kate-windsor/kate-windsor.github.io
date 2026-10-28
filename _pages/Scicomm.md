@@ -22,7 +22,6 @@ author:
 
   <a class="scicom-card" href="https://www.sciencedirect.com/science/article/pii/S0012160626000904" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/scicomm/mummies.png" alt="Tuberculosis and Ribs">
-    <h3>Hungarian Mummies of the White Plague</h3>
     <p>Journal of Developmental Biology</p>
   </a>
 
