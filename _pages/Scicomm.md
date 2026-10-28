@@ -17,7 +17,7 @@ author:
 
   <a class="scicom-card" href="https://www.sciencedirect.com/science/article/pii/S0012160625003501" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/scicomm/eels.png" alt="Eels? Eels!">
-    <p>   Journal of Developmental Biology</p>
+    <p>&nbsp;&nbsp;&nbsp;Journal of Developmental Biology</p>
   </a>
 
   <a class="scicom-card" href="https://www.sciencedirect.com/science/article/pii/S0012160626000904" target="_blank" rel="noopener noreferrer">
