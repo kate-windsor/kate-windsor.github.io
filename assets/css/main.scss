@@ -419,8 +419,8 @@ body .entry-content p {
 }
 
 /* option for different sidebar format */
-.square-author-image .author__avatar img {
-  border-radius: 0;
-  border: none;
-  padding: 0;
+body.square-author-image .author__avatar img {
+  border-radius: 0 !important;
+  border: none !important;
+  padding: 0 !important;
 }
