@@ -6,7 +6,7 @@ order: 4
 
 author_profile: true
 author:
-    avatar: "assets/images/Summer 2018.jpg" 
+  avatar: "assets/images/Summer 2018.jpg" 
   bio: "Beaudoin Lab Summer 2018"
 ---
 
