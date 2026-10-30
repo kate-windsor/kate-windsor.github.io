@@ -424,3 +424,11 @@ body.square-author-image .author__avatar img {
   border: none !important;
   padding: 0 !important;
 }
+
+/* scroll bar go away */
+body.square-author-image .sidebar.sticky {
+  position: static;
+  top: auto;
+  max-height: none;
+  overflow-y: visible;
+}
