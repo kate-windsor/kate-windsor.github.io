@@ -2,7 +2,6 @@
 title: "Embryonic Limbbud Initiation"
 layout: single
 classes:
-  - wide
   - cv-page
   - square-author-image
 order: 2
