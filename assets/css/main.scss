@@ -432,3 +432,10 @@ body.square-author-image .sidebar.sticky {
   max-height: none;
   overflow-y: visible;
 }
+
+/* Site title mobile space */
+@media (max-width: 767px) {
+  .masthead .site-title {
+    padding-left: 10px;
+  }
+}
