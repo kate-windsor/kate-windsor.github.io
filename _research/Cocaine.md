@@ -12,10 +12,10 @@ author:
   avatar: "assets/images/research/2018summer.jpg" 
   bio: "Undergrad Kate holding vials of mouse brains."
 sidebar:
-  - image: "/assets/images/Summer 2018.jpg"
+  - image: "/assets/images/research/Summer 2018.jpg"
     image_alt: "Beaudoin Lab Summer 2018"
     text: ""
-  - image: "/assets/images/Summer2018.jpg"
+  - image: "/assets/images/research/Summer2018.jpg"
     image_alt: "Beaudoin Lab Summer 2018"
     text: "Beaudoin Lab Summer 2018"
 ---
