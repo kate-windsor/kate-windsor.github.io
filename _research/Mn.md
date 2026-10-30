@@ -2,7 +2,9 @@
 title: "Mn-induced Neurotoxicity"
 layout: single
 classes: wide
-classes: cv-page
+classes:
+  - cv-page
+  - wide
 order: 1
 
 author_profile: true
