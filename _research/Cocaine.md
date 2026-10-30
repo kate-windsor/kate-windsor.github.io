@@ -11,7 +11,7 @@ author_profile: true
 author:
   avatar: "assets/images/Summer 2018.jpg" 
   bio: ""
-  sidebar:
+sidebar:
   - image: "/assets/images/Summer2018.jpg"
     image_alt: "Beaudoin Lab Summer 2018"
     text: "Beaudoin Lab Summer 2018"
