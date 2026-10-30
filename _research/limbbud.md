@@ -11,6 +11,11 @@ author_profile: true
 author:
   avatar: "/assets/images/research/biorendermouseembryos.png"
   bio: "Mouse embryo development from embryonic day 8.5 to 18.5. Images by Biorender."
+
+  sidebar:
+  - image: "/assets/images/research/Limb_bud_diagram.jpg"
+    image_alt: "Diagram of developing limb bud"
+    text: "Diagram of a developing limb bud. [image source](https://en.wikipedia.org/wiki/Limb_bud)"
 ---
 
 ### Defining mechanisms regulating Hedgehog signaling during development
