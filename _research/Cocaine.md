@@ -10,7 +10,11 @@ order: 4
 author_profile: true
 author:
   avatar: "assets/images/Summer 2018.jpg" 
-  bio: "Beaudoin Lab Summer 2018"
+  bio: ""
+  sidebar:
+  - image: "/assets/images/Summer2018.jpg"
+    image_alt: "Beaudoin Lab Summer 2018"
+    text: "Beaudoin Lab Summer 2018"
 ---
 
 ### Characterizing synaptic mechanisms underlying cocaine-induced dopaminergic sensitization
