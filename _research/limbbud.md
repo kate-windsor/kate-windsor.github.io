@@ -1,5 +1,4 @@
 ---
----
 title: "Embryonic Limbbud Initiation"
 layout: single
 classes:
@@ -14,7 +13,6 @@ author:
   bio: "Mouse embryo development from embryonic day 8.5 to 18.5. Images by Biorender."
 ---
 
----
 ### Defining mechanisms regulating Hedgehog signaling during development
 
 The Hedgehog signaling pathway is a critical regulator of embryonic development and its disruption can result in severe developmental abnormalities. While the transcription factor GLI3 is known to mediate Hedgehog-dependent gene regulation, the mechanisms controlling GLI3 activity and repression during limb development remained incompletely understood.
