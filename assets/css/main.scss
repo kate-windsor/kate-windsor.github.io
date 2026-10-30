@@ -418,30 +418,9 @@ body .entry-content p {
   }
 }
 
-
-/* Center science communication portfolio cards 
-
-.scicom-card {
-  display: flex;
-  flex-direction: column;
-  align-items: center; 
-  color: inherit;
-  text-decoration: none;
-  min-width: 0;
-  text-align: center;
+/* option for different sidebar format */
+.square-author-image .author__avatar img {
+  border-radius: 0;
+  border: none;
+  padding: 0;
 }
-
-.scicom-card img {
-  display: block;
-  width: 100%;
-  height: 220px;
-  object-fit: contain;
-  object-position: left;
-  border-radius: 4px;
-}
-
-.scicom-card p {
-  width: 100%;
-  text-align: center !important;
-}
-*/
