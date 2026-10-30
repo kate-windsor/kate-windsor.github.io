@@ -1,17 +1,18 @@
 ---
+---
 title: "Embryonic Limbbud Initiation"
 layout: single
-classes: wide
-classes: cv-page
 classes:
+  - wide
+  - cv-page
   - square-author-image
 order: 2
 
 author_profile: true
 author:
-  
-  avatar: "assets/images/research/biorendermouseembryos.png"
+  avatar: "/assets/images/research/biorendermouseembryos.png"
   bio: "Mouse embryo development from embryonic day 8.5 to 18.5. Images by Biorender."
+---
 
 ---
 ### Defining mechanisms regulating Hedgehog signaling during development
