@@ -4,6 +4,7 @@ layout: single
 classes:
   - wide
   - cv-page
+  - square-author-image
 order: 4
 
 author_profile: true
