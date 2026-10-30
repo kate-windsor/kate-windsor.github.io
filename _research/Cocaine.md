@@ -3,6 +3,11 @@ title: "Cocaine-induced Synaptic Structual Changes"
 layout: single
 classes: wide
 order: 4
+
+author_profile: true
+author:
+    avatar: "assets/images/Summer 2018.jpg" "assets/images/Summer2018.jpg"
+  bio: "Beaudoin Lab Summer 2018"
 ---
 
 ### Characterizing synaptic mechanisms underlying cocaine-induced dopaminergic sensitization
