@@ -1,7 +1,9 @@
 ---
 title: "Cocaine-induced Synaptic Structual Changes"
 layout: single
-classes: wide
+classes:
+  - wide
+  - cv-page
 order: 4
 
 author_profile: true
