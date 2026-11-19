@@ -10,6 +10,11 @@ author:
 
 <div class="scicom-grid">
   
+  <a class="scicom-card" href="https://www.brainpost.co/weekly-brainpost/2026/11/10/microdelays-impair-students-online-learning-outcomes" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/scicomm/microdelays.png" alt="Online learning suffers from buffering time">
+    <p>&nbsp;&nbsp;&nbsp; Brain Post: a weekly e-newsletter of the latest neuroscience publications</p>
+  </a>
+  
   <a class="scicom-card" href="https://cns.utexas.edu/news/research/under-antibiotic-siege-frontline-bacterial-cells-protect-their-colony-beyond-grave" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/scicomm/antibacgrave.png" alt="Antibiotics and RNA interaction">
     <p>&nbsp;&nbsp;&nbsp;UT Austin College of Natural Sciences</p>
